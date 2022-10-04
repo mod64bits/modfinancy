@@ -13,7 +13,7 @@ Projeto de um app web de análise financeira pessoal usando apenas Python com ba
 - Dispor de uma página de extratos, para que possa visualizar os dados de forma mais minuciosa e completa
 
 ## 💻 Projeto
-Para ver as aulas do desenvolvimento do projeto completo em vídeo:
+Projeto Não Finalizado, mas funcional para um único usuário
 
 
 
